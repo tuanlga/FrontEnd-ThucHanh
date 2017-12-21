@@ -1,0 +1,48 @@
+*	{
+	padding: 0px;
+	margin : 0px;
+}
+
+/* css cho phan menu va banner */
+.top {
+	background-image:url(../images/1.jpg);
+	background-size:cover;
+	height:700px;
+}
+
+.mtren {
+	background:transparent;
+}
+
+a.logo {
+	font-family: 'Roboto Slab', serif;
+	background-color:#ec6952;
+	border-radius:5px;
+	position:relative;
+	top:-8px;
+	font-size : 26px;
+	padding : 13px 16px;
+	font-weight : 700;
+}
+
+.top .mphai a.nav-link {
+	text-transform: uppercase;
+	padding : 13px 16px;
+	font-size: 20px;
+	color:#e6e6e6;
+	transition:0.5s;
+}
+
+.top .mphai a.nav-link:hover {
+	color:#ec6952
+}
+
+.top .mphai a.nav-link.nutsignup {
+	border-color: white;
+}
+
+.top .mphai a.nav-link.nutsignup:hover {
+	background-color:#ec6952;
+	border-color:#ec6952;
+	color: white;
+}
