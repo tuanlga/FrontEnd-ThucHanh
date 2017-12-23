@@ -1,0 +1,21 @@
+﻿Removing Stumbling Blocks In Mobile Forms
+
+A few weeks ago, I was quite surprised when I saw the pavement quickly approaching while I was out for a walk. Laying there stunned, I soon realized what had happened: I fell. Ouch. B-minus. I normally try to be as attentive as possible, but this time a big crack in the pavement caught my shoe and threw me completely off balance.
+
+After reporting my clumsy accident to friends and family, I instantly received comments like: “be more careful” or “better watch out next time”. In the end, I started to defend myself—if that crack would not have been there, I most likely would not have been face-planted.
+When it comes to filling out forms on a mobile phone, I have observed many users running into a similar experience, merely less painful in its physical aspect. Many elements within a mobile form affect how smoothly users will get to a service or product hiding behind a form of any kind.
+
+There are several factors that can be considered to be stumbling blocks throughout the journey of filling out a form. Specifically on a portable device, this journey is complicated by the fact that we have to consider contextual parameters such as time, location, or limited input options, in comparison to a firm desktop experience. In this post we will look at the most common stumbling blocks for mobile devices. Moreover, I will discuss design strategies to avoid stumbling blocks and to facilitate a safe and quick stroll through forms for mobile users.
+[Note: Have you already pre-ordered your copy of our Printed Smashing Book #3? The book is a professional guide on how to redesign websites and it also introduces a whole new mindset for progressive Web design, written by experts for you.]
+
+/*-----------------------------------------------------------------------------------------------------*/
+Applying Macrotypography For A More Readable Web Page
+
+Any application of typography can be divided into two arenas: micro and macro. Understanding the difference between the two is especially useful when crafting a reading experience, because it allows the designer to know when to focus on legibility and when to focus on readability.
+
+This article focuses mostly on a few simple macrotypographic techniques—with a dash of micro—and on how to combine them all to build a more harmonious, adaptable and, most importantly, readable Web page.
+
+First, some definitions. Microtypography has to do with the details; setting the right glyph, getting the appropriate kerning and tracking, and making stylistic choices such as when to use small-caps. Micro techniques have received a lot of attention recently, as browser makers adopt new CSS attributes that allow for finer control over Web type. Microtypography deals mainly with legibility and can be thought of as the design of letters and words.
+
+Macrotypography focuses on how type is arranged on the page. Most macro techniques have been achievable through CSS for quite some time, but because our understanding of the Web page is changing, the way we use these techniques must adapt. Macrotypography deals mainly with readability and can be thought of as the design of paragraphs and the page.
+[Note: Have you already pre-ordered your copy of our Printed Smashing Book #3? The book is a professional guide on how to redesign websites and it also introduces a whole new mindset for progressive Web design, written by experts for you.]

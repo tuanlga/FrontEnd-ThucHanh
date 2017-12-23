@@ -1,0 +1,26 @@
+@charset "utf-8";
+#headercontent {
+	position:absolute;
+	width:791px;
+	height:127px;
+	left: 44px;
+	background-image: url(images/web/logo1.GIF);
+	background-repeat: no-repeat;
+	top: 15px;
+}
+#menucontent {
+	position:absolute;
+	left:229px;
+	top:64px;
+	width:606px;
+	height:76px;
+	z-index: 1;
+}
+#contentcontent {
+	position:absolute;
+	left:44px;
+	top:142px;
+	width:790px;
+	height:427px;
+	z-index: 5;
+}

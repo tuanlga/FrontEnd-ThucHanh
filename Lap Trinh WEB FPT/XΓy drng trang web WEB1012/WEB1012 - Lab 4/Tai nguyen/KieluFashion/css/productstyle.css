@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper #leftpanel #content table tr td {
+	height: 300px;
+	width: 270px;
+}
+#productTitle {
+	text-align: center;
+	height: 30px;
+	font-size: 24px;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+.price {
+	text-align: center;
+	color: #666;
+	vertical-align: middle;
+}
+#wrapper #leftpanel #content table tr td img {
+	margin: 5px;
+}
+

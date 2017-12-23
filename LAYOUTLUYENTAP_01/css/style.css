@@ -1,8 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+#menuhome {
+  padding: 10px 50px;
+  background-image: url(../images/media/pattern-2.png); }
+
 a img {
   width: auto;
   margin: auto;
   height: 70px;
-  display: block;
-  background-color: gray }
+  display: block; }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,0 +1,15 @@
+@charset "utf-8";
+#menucontent table tbody tr td a {
+	font-size: 16px;
+	color: #FFF;
+	text-align: center;
+}
+
+#video {
+	position:absolute;
+	left:120px;
+	top:0px;
+	width:454px;
+	height:386px;
+	z-index:2;
+}
